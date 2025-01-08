@@ -1,3 +1,12 @@
 .header {
   font-family: "Times New Roman", Times, serif;
 }
+
+.button {
+  color: white;
+}
+
+.button:hover {
+  color: whitesmoke;
+  text-decoration: underline;
+}
